@@ -1,0 +1,25 @@
+{
+  "275_80R22_5": {
+    "liso": [
+      { "marca": "Bridgestone", "modelo": "R269", "preco_pix": 2591, "preco_6x": 2817, "preco_10x": 2945 },
+      { "marca": "Goodyear", "modelo": "Extreme", "preco_pix": 2505, "preco_6x": 2723, "preco_10x": 2847 },
+      { "marca": "Michelin", "modelo": "X Multi Z", "preco_pix": 2796, "preco_6x": 3039, "preco_10x": 3177 }
+    ],
+    "borrachudo": [
+      { "marca": "Goodyear", "modelo": "K-Max D", "preco_pix": 2699, "preco_6x": 2934, "preco_10x": 3067 },
+      { "marca": "Michelin", "modelo": "X Multi D", "preco_pix": 2903, "preco_6x": 3156, "preco_10x": 3299 }
+    ]
+  },
+  "295_80R22_5": {
+    "liso": [
+      { "marca": "Bridgestone", "modelo": "R269", "preco_pix": 2677, "preco_6x": 2910, "preco_10x": 3043 },
+      { "marca": "Goodyear", "modelo": "Extreme", "preco_pix": 2613, "preco_6x": 2840, "preco_10x": 2969 },
+      { "marca": "Michelin", "modelo": "X Multi Z", "preco_pix": 3140, "preco_6x": 3413, "preco_10x": 3568 }
+    ],
+    "borrachudo": [
+      { "marca": "Bridgestone", "modelo": "M-736", "preco_pix": 2968, "preco_6x": 3226, "preco_10x": 3372 },
+      { "marca": "Goodyear", "modelo": "K-Max D", "preco_pix": 2849, "preco_6x": 3097, "preco_10x": 3238 },
+      { "marca": "Michelin", "modelo": "X Multi D", "preco_pix": 3527, "preco_6x": 3834, "preco_10x": 4008 }
+    ]
+  }
+}
