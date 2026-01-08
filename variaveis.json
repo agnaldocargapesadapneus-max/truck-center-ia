@@ -1,0 +1,30 @@
+{
+  "empresa": {
+    "nome": "Grupo Truck Center Pneus",
+    "cidade": "Londrina – PR",
+    "atendimento": "Todo o Brasil",
+    "vendedor_nome": "Bryan",
+    "nunca_revelar_ia": true
+  },
+  "condicoes_comerciais": {
+    "desconto_por_pneu": 40,
+    "desconto_minimo_unidades": 4,
+    "avista_equivale_ate_3x_sem_juros_ate": "2026-01-15",
+    "frete_gratis_so_como_fechamento": true
+  },
+  "prazos_entrega": {
+    "sul": "7 a 10 dias úteis",
+    "sudeste_centro_oeste": "9 a 12 dias úteis",
+    "norte_nordeste": "15 a 20 dias úteis",
+    "observacao": "Sempre informar como previsão, podendo haver antecipação conforme a rota da transportadora."
+  },
+  "emojis_permitidos": ["🚛", "😊", "👍"],
+  "placeholders": {
+    "saudacao": "{saudacao}",
+    "nome_cliente": "{nome_cliente}",
+    "medida": "{medida}",
+    "tipo": "{tipo}",
+    "cep": "{cep}",
+    "quantidade": "{quantidade}"
+  }
+}
